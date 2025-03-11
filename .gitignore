@@ -1,0 +1,14 @@
+# Database configuration
+includes/db.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Laravel/PHP files
+/vendor/
+.env
