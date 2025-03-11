@@ -36,9 +36,6 @@ git clone https://github.com/Toneejake/hospital-management.git
 
 5. Access the system through your web browser
 
-## Screenshots
-
-[Add screenshots of your system here]
 
 ## License
 
